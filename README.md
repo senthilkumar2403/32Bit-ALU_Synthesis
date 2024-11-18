@@ -1,4 +1,4 @@
-# 32Bit-ALU_Synthesis
+# exp-5 : 32Bit-ALU_Synthesis
 
 ## Aim:
 
